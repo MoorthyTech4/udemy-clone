@@ -90,9 +90,9 @@ body {
 }
 
 .categories p:hover {
-  background-color: grey; /* highlight color */
+  background-color: grey;
   color: #fff;
-  transform: scale(1.05); /* slight zoom effect */
+  transform: scale(1.05);
 }
 .sale-image{
     position: relative;
